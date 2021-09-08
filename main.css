@@ -1,3 +1,8 @@
 h1{
     color: blueviolet;
 }
+p{
+    margin: 7px;
+    background-color: darkcyan;
+    color: darkorange;
+}
